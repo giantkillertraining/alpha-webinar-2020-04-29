@@ -24,3 +24,6 @@ Demonstration of a new feature for adding static images and drop down menu's to 
 
 Controls:
 -list_row_menu_webinar_ux
+
+## Demonstration Requirements
+Please make sure you have set up the  AADemo-Northwind connection string using the built in connection string builder before executing the demonstrating content.
